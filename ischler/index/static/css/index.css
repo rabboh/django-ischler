@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+#container {
+    max-width: 1000px;
+    margin:0 auto;
+    text-align: left;
+    border: 1px dotted #efefef;
+}
